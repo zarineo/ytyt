@@ -1,0 +1,16 @@
+﻿@keyframes goright {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: 500px;
+    }
+    
+}
+
+.button {
+    animation-name: goright;
+    animation-duration: 2s;
+}
+
+
